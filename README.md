@@ -1,33 +1,40 @@
-# 📊 Sales Performance Dashboard (Tableau)
-
-An interactive Tableau dashboard providing insights into sales, profit, and customer trends across regions.
+# 📊 Sales Performance Dashboard using Tableau
 
 ## 🎯 Objective
-Design an interactive dashboard to analyze sales performance, profitability, and customer behavior.
+Create an interactive dashboard to analyze sales performance, customer segments, and regional trends for better business decision-making.
 
-## 🛠 Tools Used
+---
+
+## 📁 Dataset
+- Superstore dataset
+- Includes sales, profit, customer segments, regions, and order details
+
+---
+
+## 🛠️ Tools Used
 - Tableau
+- Data Visualization
+- Dashboard Design
+
+---
 
 ## 📊 Dashboard Features
 - Sales by Region
 - Sales by Segment
-- Top Customers
+- Top Customers Analysis
+- Profit vs Sales Scatter Plot
 - Monthly Sales Trend
-- KPI Metrics (Total Sales, Profit, Orders)
+
+---
 
 ## 🔍 Key Insights
 - Central region generates the highest sales
-- Consumer segment contributes the most revenue
-- Top customers drive a significant portion of sales
-- Some high-sales transactions are less profitable
-- Sales show strong seasonal trends
+- Consumer segment drives the majority of revenue
+- A few customers contribute significantly to total sales
+- Some high sales transactions result in low or negative profit
+- Sales show an increasing trend over time with fluctuations
 
-## 📁 Files
-- Tableau Dashboard Screenshot
-- Tableau Workbook (.twbx)
+---
 
-## 💡 Business Value
-Helps businesses track performance, identify key revenue drivers, and make data-driven decisions.
-
-## 📸 Dashboard Preview
-![Dashboard](sales_screenshot.png)
+## 📌 Conclusion
+This dashboard helps stakeholders quickly understand business performance and identify opportunities for growth using visual analytics.
