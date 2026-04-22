@@ -1,5 +1,9 @@
 # 📊 Sales Performance Dashboard (Tableau)
 
+An interactive Tableau dashboard providing insights into sales, profit, and customer trends across regions.
+
+## 🎯 Objective
+Design an interactive dashboard to analyze sales performance, profitability, and customer behavior.
 ## 🎯 Objective
 Design an interactive dashboard to analyze sales performance, profitability, and customer behavior.
 
