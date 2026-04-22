@@ -4,8 +4,6 @@ An interactive Tableau dashboard providing insights into sales, profit, and cust
 
 ## 🎯 Objective
 Design an interactive dashboard to analyze sales performance, profitability, and customer behavior.
-## 🎯 Objective
-Design an interactive dashboard to analyze sales performance, profitability, and customer behavior.
 
 ## 🛠 Tools Used
 - Tableau
