@@ -28,4 +28,4 @@ Design an interactive dashboard to analyze sales performance, profitability, and
 Helps businesses track performance, identify key revenue drivers, and make data-driven decisions.
 
 ## 📸 Dashboard Preview
-(Add screenshot below 👇)
+![Dashboard](your_book2.png)
